@@ -23,6 +23,7 @@
 
         <input type="submit" value="Cadastrar">
         <a href="login.php">Já possui cadastro? Faça login!</a>
+        <a href="esqueci_senha.php">Esqueci minha senha!</a>
     </form>
 </body>
 </html>
